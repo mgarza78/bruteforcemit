@@ -19,4 +19,4 @@ A script to revive the webserver
 
 ## Author
 
-* **Mike G** *
+* **Mike G** 
